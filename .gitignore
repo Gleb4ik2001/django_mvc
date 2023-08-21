@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.env
+*.log
+*.sqlite
+*.sqlite3
+*.sqlite3-journal
+venv
+.isort.cfg
+.idea
+.vscode
+
+migrations/
+staticfiles/
+media/
